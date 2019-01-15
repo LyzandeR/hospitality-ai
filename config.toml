@@ -1,0 +1,222 @@
+title = "Hospitality Solutions"
+baseURL = "https://www.hospitalitysolutions.com"
+languageCode = "en-us"
+theme = "airspace-hugo"
+
+# The site's parameters
+[params]
+
+  # Google Analitycs
+  googleAnalitycsID = "Your ID"
+  description = "Airspace Hugo theme"
+  author = "Somrat"
+  
+  
+  # If you want to remove the copyright text you need a Themefisher license.
+  # This license is offered with a 50% discount for all Hugo users.
+  # For information see https://github.com/gohugoio/hugoThemes/issues/260
+
+# Multilangual : FR / EN
+[Languages]
+    ############ 1 - Site en FRANCAIS
+  
+
+  [Languages.fr]
+  languageName = "Gr"
+  weight = 1
+  languageCode = "fr-fr"
+  title = "Hospitality Solutions"
+  dateFormat = "2 January 2006"
+  home = "Αρχική"
+
+    
+  [Languages.fr.menu]
+
+    [[Languages.fr.menu.header]]
+      weight = 2
+      name = "Προιόντα"
+      url = "/fr/work"
+    [[Languages.fr.menu.header]]
+      weight = 3
+      name = "Blog"
+      url = "/fr/blog"
+    [[Languages.fr.menu.header]]
+      weight = 4
+      name = "Υπηρεσίες"
+      url = "/fr/service"
+    [[Languages.fr.menu.header]]
+      weight = 5
+      name = "Επικοινωνία"
+      url = "/fr/contact"
+
+    [[Languages.fr.menu.footer]]
+      weight = 1
+      name = "About us"
+      url = "#"
+    [[Languages.fr.menu.footer]]
+      weight = 2
+      name = "Επικοινωνία"
+      url = "#"
+    [[Languages.fr.menu.footer]]
+      weight = 3
+      name = "Πως λειτουργεί"
+      url = "#"
+    [[Languages.fr.menu.footer]]
+      weight = 4
+      name = "Blog"
+      url = "#"
+    [[Languages.fr.menu.footer]]
+      weight = 5
+      name = "Όροι"
+      url = "#"
+
+
+  [Languages.fr.params]
+
+    [Languages.fr.params.slider]
+      enable = true
+      title = "Λυσεις Τεχνιτης Νοημοσυνης για την Ξενοδοχειακη σας Μοναδα"
+      subtitle = "Συνδιάζοντας την εμπειρία μας στους τομείς της φιλοξενίας και της τεχνιτής νοημοσύνης παρέχουμε υψιλής ποιότητας υπηρεσίες για την αύξηση της κερδοφορίας σας."
+
+    [Languages.fr.params.wrapper]
+      enable = true
+      image = "img/wrapper-img.jpg"
+      title = "Η εταιρια μας"
+      italic = "Φιλοδοξία μας είναι να φέρουμε μία νέα εποχή στον κόσμο της φιλοξενίας. "
+      paragraph = "Ζούμε στην εποχή που το μεγαλύτερο κεφάλαιο μίας εταιρίας είναι τα δεδομένα που παράγει. Ο στόχος της hospitality solutions ai είναι να σας βοηθήσει να αξιοποιήσετε αυτά τα δεδομένα με την τελευταία λέξη της τεχνολογίας στον κλάδο της τεχνιτής νοημοσύνης για την λήψη αποφάσεων."
+
+    [Languages.fr.params.blog]
+      enable = true
+      title = "Τελευταία Άρθρα"
+      subtitle = "Δείτε τα τελευταία νέα στον κλάδο απ' όπου κι αν είστε."
+
+    [Languages.fr.params.feature]
+      enable = true
+      title = "Καινοτομια στην Φιλοξενiα"
+      content = "Είναι γνωστό το παράδειγμα τoυ Red Roof Inn που χρησιμοποίησε την δύναμη των προβλέψεων για να καταλάβει σε ποιες περιοχές να ανοίξει νέα ξενοδοχεία. Αναλύοντας δεδομένα καιρού και συνδιάζοντας τα με τις καθυστερίσεις των αεροδρομίων προέβλεψε ποιες περιοχές θα είχαν ζήτηση σε ξενοδοχειακές μονάδες. Κατάφερε έτσι να αυξήσει τα έσοδα της 10% ετησίως. Με την αξιοποίηση τόσο εσωτερικών όσο και εξωτερικών δεδομένων υποστηρίζουμε την λήψη αποφάσεων της ξενοδοχιακής σας μονάδας. Τα δεδομένα σας έχουν την απάντηση."
+
+      [Languages.fr.params.feature.button]
+        caption = "View Works"
+        url = "#"
+
+    [Languages.fr.params.call]
+      enable = true
+      title = "Εξατομικευμένες υπηρεσίες με βάση τις δικές σας ανάγκες"
+      paragraph = "Διαβάστε περισσοτερα για τις υπηρεσίες μας και επικοινωνίστε μαζί μας για να δείτε τι μπορούμε να κάνουμε για εσάς"
+
+    [Languages.fr.params.contact]
+      enable = true
+      title = "Επικοινωνίστε μαζί μας"
+      subtitle = "Δείτε τα τελευταία μας νέα"
+      [Languages.fr.params.contact.form]
+        name = "Το όνομά σας"
+        email = "Το email σας"
+        subject = "Θέμα"
+        message = "Το Μηνυμά σας"
+        button = "Αποστολή"
+      [Languages.fr.params.contact.box]
+        title = ""
+        address = ""
+        email = "Email: info@hospitalitysolutions.com"
+        phone = "Phone: "
+      [Languages.fr.params.contact.gmaps]
+        title = ""
+
+  ######## english language
+  [Languages.en]
+  languageName = "En"
+    weight = 2
+    languageCode = "en-us"
+    title = "Airspace Hugo"
+    dateFormat = "January 2, 2006"
+    home = "Home"
+
+    
+  [Languages.en.menu]
+
+    [[Languages.en.menu.header]]
+      weight = 2
+      name = "Work"
+      url = "/work"
+    [[Languages.en.menu.header]]
+      weight = 3
+      name = "Blog"
+      url = "/blog"
+    [[Languages.en.menu.header]]
+      weight = 4
+      name = "Service"
+      url = "/service"
+    [[Languages.en.menu.header]]
+      weight = 5
+      name = "Contact"
+      url = "/contact"
+
+    [[Languages.en.menu.footer]]
+      weight = 1
+      name = "About us"
+      url = "#"
+    [[Languages.en.menu.footer]]
+      weight = 2
+      name = "Contact us"
+      url = "#"
+    [[Languages.en.menu.footer]]
+      weight = 3
+      name = "How it works"
+      url = "#"
+    [[Languages.en.menu.footer]]
+      weight = 4
+      name = "Blog"
+      url = "#"
+    [[Languages.en.menu.footer]]
+      weight = 5
+      name = "Terms"
+      url = "#"
+
+  [Languages.en.params.slider]
+    enable = true
+    title = "Artificial Intelligence Solutions for your Hotel"
+    subtitle = "Combining our expertise in artificial intelligence and hospitality we create cutting edge solutions to increase revenue for your hotel"
+
+  [Languages.en.params.wrapper]
+    enable = true
+    image = "img/wrapper-img.jpg"
+    title = "About Us"
+    italic = "Our ambition is to lead the hospitality industry into a new era of evolution"
+    paragraph = "We live in a period where the most important asset for a company is the data they produce. The goal for hospitality solutions ai is to help you utilise your data, implementing artificial intelligence algorithms, to drive decision making."
+
+  [Languages.en.params.blog]
+    enable = true
+    title = "Personalised solutions based on your needs."
+    subtitle = ""
+
+  [Languages.en.params.feature]
+    enable = true
+    title = "Innovation in Hospitality"
+    content = "Red Roof Inn is a well known example of how predictive analytics and AI can help the hospitality industry. Combining data from airport delays and weather data they predicted which areas will have accomodation needs in the future. By opening new branches in those areas they managed to increase revenue by 10%. By using internal and external data we reinforce your decision making in order to increase revenue. Your data has the answer."
+
+    [Languages.en.params.feature.button]
+      caption = "View Works"
+      url = "#"
+
+  [Languages.en.params.call]
+    enable = true
+    title = "We design services based on your needs."
+    paragraph = "Read more about what we do to help your hotel reach its maximum potential."
+
+  [Languages.en.params.contact]
+    enable = true
+    title = "Contact us"
+    subtitle = "Check out some of our latest work."
+    [Languages.en.params.contact.form]
+      name = "Your name"
+      email = "Your email"
+      subject = "Your subject"
+      message = "Your message"
+      button = "Send message"
+    [Languages.en.params.contact.box]
+      title = ""
+      address = ""
+      email = "Email: info@hospitalitysolutionsai.com"
+      phone = "Phone:"
+    [Languages.en.params.contact.gmaps]
+      title = ""

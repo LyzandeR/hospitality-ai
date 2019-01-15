@@ -1,0 +1,45 @@
+enable: true
+title: Our Services
+subtitle: >
+  An overview of the services we provide
+content:
+
+  - icon: fa fa-database
+    name: Data Recording
+    text: >
+      We provide solutions to help you store and monitor the data you generate on a day-to-day basis
+
+  - icon: fa fa-trophy
+    name: Competitor Analysis
+    text: >
+      We help you understand who your main competitors are and help you design your hotel's strategy 
+
+  - icon: fa fa-users
+    name: Customer Analysis
+    text: >
+      Not every customer has the same value for your hotel. We help you find the ones with the maximum value
+
+  - icon: fa fa-twitter
+    name: Social Media Analysis
+    text: >
+      We monitor all the major social media accounts to give you valueable insights.
+
+  - icon: fa fa-money
+    name: Investment Analysis
+    text: >
+      Thinking about opening a new hotel or a new restaurant? Your data knows the location.
+
+  - icon: fa fa-globe
+    name: Online Analysis
+    text: >
+      Combine your online data with your social media data to attract more valuable customers.
+
+  - icon: fa fa-line-chart
+    name: Forecasting
+    text: >
+      We forecast your demand and cancelations for rooms based on seasonality, weather, and local events for your hotel or restaurant.
+
+  - icon: fa fa-random
+    name: Ad-hoc Analytics
+    text: >
+      Different hotels have different needs. If you have a specific question whose answer lies in your data, we will help you find it.
