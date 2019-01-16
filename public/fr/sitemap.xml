@@ -247,22 +247,6 @@
   </url>
   
   <url>
-    <loc>https://lyzander.github.io/fr/tags/programming/</loc>
-    <lastmod>2015-10-02T21:49:20+02:00</lastmod>
-    <priority>0</priority>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://lyzander.github.io/tags/programming/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="https://lyzander.github.io/fr/tags/programming/"
-                />
-  </url>
-  
-  <url>
     <loc>https://lyzander.github.io/fr/categories/programming/</loc>
     <lastmod>2015-10-02T21:49:20+02:00</lastmod>
     <priority>0</priority>
@@ -275,6 +259,22 @@
                 rel="alternate"
                 hreflang="fr"
                 href="https://lyzander.github.io/fr/categories/programming/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://lyzander.github.io/fr/tags/programming/</loc>
+    <lastmod>2015-10-02T21:49:20+02:00</lastmod>
+    <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://lyzander.github.io/tags/programming/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://lyzander.github.io/fr/tags/programming/"
                 />
   </url>
   
