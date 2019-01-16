@@ -3,342 +3,342 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://www.hospitalitysolutions.com/blog/migrate-from-jekyll/</loc>
+    <loc>https://lyzander.github.io/blog/migrate-from-jekyll/</loc>
     <lastmod>2015-10-10T13:07:31+02:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https://www.hospitalitysolutions.com/fr/blog/migrate-from-jekyll/"
+                href="https://lyzander.github.io/fr/blog/migrate-from-jekyll/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://www.hospitalitysolutions.com/blog/migrate-from-jekyll/"
+                href="https://lyzander.github.io/blog/migrate-from-jekyll/"
                 />
   </url>
   
   <url>
-    <loc>https://www.hospitalitysolutions.com/blog/linked-post/</loc>
+    <loc>https://lyzander.github.io/blog/linked-post/</loc>
     <lastmod>2015-10-02T21:49:20+02:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https://www.hospitalitysolutions.com/fr/blog/linked-post/"
+                href="https://lyzander.github.io/fr/blog/linked-post/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://www.hospitalitysolutions.com/blog/linked-post/"
+                href="https://lyzander.github.io/blog/linked-post/"
                 />
   </url>
   
   <url>
-    <loc>https://www.hospitalitysolutions.com/blog/go-is-for-lovers/</loc>
+    <loc>https://lyzander.github.io/blog/go-is-for-lovers/</loc>
     <lastmod>2015-09-17T13:47:08+02:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https://www.hospitalitysolutions.com/fr/blog/go-is-for-lovers/"
+                href="https://lyzander.github.io/fr/blog/go-is-for-lovers/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://www.hospitalitysolutions.com/blog/go-is-for-lovers/"
+                href="https://lyzander.github.io/blog/go-is-for-lovers/"
                 />
   </url>
   
   <url>
-    <loc>https://www.hospitalitysolutions.com/blog/hugo-is-for-lovers/</loc>
+    <loc>https://lyzander.github.io/blog/hugo-is-for-lovers/</loc>
     <lastmod>2015-08-03T13:39:46+02:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https://www.hospitalitysolutions.com/fr/blog/hugo-is-for-lovers/"
+                href="https://lyzander.github.io/fr/blog/hugo-is-for-lovers/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://www.hospitalitysolutions.com/blog/hugo-is-for-lovers/"
+                href="https://lyzander.github.io/blog/hugo-is-for-lovers/"
                 />
   </url>
   
   <url>
-    <loc>https://www.hospitalitysolutions.com/blog/creating-a-new-theme/</loc>
+    <loc>https://lyzander.github.io/blog/creating-a-new-theme/</loc>
     <lastmod>2015-06-24T13:50:46+02:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https://www.hospitalitysolutions.com/fr/blog/creating-a-new-theme/"
+                href="https://lyzander.github.io/fr/blog/creating-a-new-theme/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://www.hospitalitysolutions.com/blog/creating-a-new-theme/"
+                href="https://lyzander.github.io/blog/creating-a-new-theme/"
                 />
   </url>
   
   <url>
-    <loc>https://www.hospitalitysolutions.com/</loc>
+    <loc>https://lyzander.github.io/</loc>
     <lastmod>2015-10-10T13:07:31+02:00</lastmod>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https://www.hospitalitysolutions.com/fr/"
+                href="https://lyzander.github.io/fr/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://www.hospitalitysolutions.com/"
+                href="https://lyzander.github.io/"
                 />
   </url>
   
   <url>
-    <loc>https://www.hospitalitysolutions.com/blog/</loc>
+    <loc>https://lyzander.github.io/blog/</loc>
     <lastmod>2015-10-10T13:07:31+02:00</lastmod>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https://www.hospitalitysolutions.com/fr/blog/"
+                href="https://lyzander.github.io/fr/blog/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://www.hospitalitysolutions.com/blog/"
+                href="https://lyzander.github.io/blog/"
                 />
   </url>
   
   <url>
-    <loc>https://www.hospitalitysolutions.com/categories/</loc>
+    <loc>https://lyzander.github.io/categories/</loc>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https://www.hospitalitysolutions.com/fr/categories/"
+                href="https://lyzander.github.io/fr/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://www.hospitalitysolutions.com/categories/"
+                href="https://lyzander.github.io/categories/"
                 />
   </url>
   
   <url>
-    <loc>https://www.hospitalitysolutions.com/contact/</loc>
+    <loc>https://lyzander.github.io/contact/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https://www.hospitalitysolutions.com/fr/contact/"
+                href="https://lyzander.github.io/fr/contact/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://www.hospitalitysolutions.com/contact/"
+                href="https://lyzander.github.io/contact/"
                 />
   </url>
   
   <url>
-    <loc>https://www.hospitalitysolutions.com/tags/go/</loc>
+    <loc>https://lyzander.github.io/tags/go/</loc>
     <lastmod>2015-09-17T13:47:08+02:00</lastmod>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https://www.hospitalitysolutions.com/fr/tags/go/"
+                href="https://lyzander.github.io/fr/tags/go/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://www.hospitalitysolutions.com/tags/go/"
+                href="https://lyzander.github.io/tags/go/"
                 />
   </url>
   
   <url>
-    <loc>https://www.hospitalitysolutions.com/tags/golang/</loc>
+    <loc>https://lyzander.github.io/tags/golang/</loc>
     <lastmod>2015-10-02T21:49:20+02:00</lastmod>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https://www.hospitalitysolutions.com/fr/tags/golang/"
+                href="https://lyzander.github.io/fr/tags/golang/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://www.hospitalitysolutions.com/tags/golang/"
+                href="https://lyzander.github.io/tags/golang/"
                 />
   </url>
   
   <url>
-    <loc>https://www.hospitalitysolutions.com/tags/hugo/</loc>
+    <loc>https://lyzander.github.io/tags/hugo/</loc>
     <lastmod>2015-10-02T21:49:20+02:00</lastmod>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https://www.hospitalitysolutions.com/fr/tags/hugo/"
+                href="https://lyzander.github.io/fr/tags/hugo/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://www.hospitalitysolutions.com/tags/hugo/"
+                href="https://lyzander.github.io/tags/hugo/"
                 />
   </url>
   
   <url>
-    <loc>https://www.hospitalitysolutions.com/tags/ipsum/</loc>
+    <loc>https://lyzander.github.io/tags/ipsum/</loc>
     <lastmod>2015-10-10T13:07:31+02:00</lastmod>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https://www.hospitalitysolutions.com/fr/tags/ipsum/"
+                href="https://lyzander.github.io/fr/tags/ipsum/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://www.hospitalitysolutions.com/tags/ipsum/"
+                href="https://lyzander.github.io/tags/ipsum/"
                 />
   </url>
   
   <url>
-    <loc>https://www.hospitalitysolutions.com/categories/lorem/</loc>
+    <loc>https://lyzander.github.io/categories/lorem/</loc>
     <lastmod>2015-10-10T13:07:31+02:00</lastmod>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https://www.hospitalitysolutions.com/fr/categories/lorem/"
+                href="https://lyzander.github.io/fr/categories/lorem/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://www.hospitalitysolutions.com/categories/lorem/"
+                href="https://lyzander.github.io/categories/lorem/"
                 />
   </url>
   
   <url>
-    <loc>https://www.hospitalitysolutions.com/tags/programming/</loc>
+    <loc>https://lyzander.github.io/tags/programming/</loc>
     <lastmod>2015-10-02T21:49:20+02:00</lastmod>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https://www.hospitalitysolutions.com/fr/tags/programming/"
+                href="https://lyzander.github.io/fr/tags/programming/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://www.hospitalitysolutions.com/tags/programming/"
+                href="https://lyzander.github.io/tags/programming/"
                 />
   </url>
   
   <url>
-    <loc>https://www.hospitalitysolutions.com/categories/programming/</loc>
+    <loc>https://lyzander.github.io/categories/programming/</loc>
     <lastmod>2015-10-02T21:49:20+02:00</lastmod>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https://www.hospitalitysolutions.com/fr/categories/programming/"
+                href="https://lyzander.github.io/fr/categories/programming/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://www.hospitalitysolutions.com/categories/programming/"
+                href="https://lyzander.github.io/categories/programming/"
                 />
   </url>
   
   <url>
-    <loc>https://www.hospitalitysolutions.com/categories/pseudo/</loc>
+    <loc>https://lyzander.github.io/categories/pseudo/</loc>
     <lastmod>2015-08-03T13:39:46+02:00</lastmod>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https://www.hospitalitysolutions.com/fr/categories/pseudo/"
+                href="https://lyzander.github.io/fr/categories/pseudo/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://www.hospitalitysolutions.com/categories/pseudo/"
+                href="https://lyzander.github.io/categories/pseudo/"
                 />
   </url>
   
   <url>
-    <loc>https://www.hospitalitysolutions.com/service/</loc>
+    <loc>https://lyzander.github.io/service/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https://www.hospitalitysolutions.com/fr/service/"
+                href="https://lyzander.github.io/fr/service/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://www.hospitalitysolutions.com/service/"
+                href="https://lyzander.github.io/service/"
                 />
   </url>
   
   <url>
-    <loc>https://www.hospitalitysolutions.com/categories/starting/</loc>
+    <loc>https://lyzander.github.io/categories/starting/</loc>
     <lastmod>2015-06-24T13:50:46+02:00</lastmod>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https://www.hospitalitysolutions.com/fr/categories/starting/"
+                href="https://lyzander.github.io/fr/categories/starting/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://www.hospitalitysolutions.com/categories/starting/"
+                href="https://lyzander.github.io/categories/starting/"
                 />
   </url>
   
   <url>
-    <loc>https://www.hospitalitysolutions.com/tags/</loc>
+    <loc>https://lyzander.github.io/tags/</loc>
     <lastmod>2015-09-17T13:47:08+02:00</lastmod>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https://www.hospitalitysolutions.com/fr/tags/"
+                href="https://lyzander.github.io/fr/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://www.hospitalitysolutions.com/tags/"
+                href="https://lyzander.github.io/tags/"
                 />
   </url>
   
   <url>
-    <loc>https://www.hospitalitysolutions.com/tags/theme/</loc>
+    <loc>https://lyzander.github.io/tags/theme/</loc>
     <lastmod>2015-10-02T21:49:20+02:00</lastmod>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https://www.hospitalitysolutions.com/fr/tags/theme/"
+                href="https://lyzander.github.io/fr/tags/theme/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://www.hospitalitysolutions.com/tags/theme/"
+                href="https://lyzander.github.io/tags/theme/"
                 />
   </url>
   
   <url>
-    <loc>https://www.hospitalitysolutions.com/work/</loc>
+    <loc>https://lyzander.github.io/work/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https://www.hospitalitysolutions.com/fr/work/"
+                href="https://lyzander.github.io/fr/work/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://www.hospitalitysolutions.com/work/"
+                href="https://lyzander.github.io/work/"
                 />
   </url>
   
